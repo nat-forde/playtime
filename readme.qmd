@@ -1,0 +1,10 @@
+---
+title: "readme"
+author: "nat forde"
+format: gfm
+editor: visual
+---
+
+## #playtime
+
+This is just a small repo where I was playing with some markdown and quarto things as examples for BMS93
