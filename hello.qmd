@@ -7,9 +7,10 @@ editor: visual
 ---
 
 # Playtime with markdown
+
 Just *playing* with **types** of ***font***
 
-~how~ about _these_
+~how~ about *these*
 
 `blahblah`
 
@@ -17,11 +18,12 @@ Just *playing* with **types** of ***font***
 
 ![](https://i.pinimg.com/originals/99/35/11/9935115196b0af50381b52b96e9aff44.png){style="float:centre;" width="802"}
 
-[] did I get it?
+\[\] did I get it?
 
 ## I'm new to quarto
 
 # Let's see what it can do
+
 ```{r}
 #| label: load-packages
 #| include: false
